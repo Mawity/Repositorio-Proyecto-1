@@ -2,7 +2,7 @@ import java.util.*;
 /**
  * Modela un grafo dirigido no pesado.
  * 
- * @author Mateo Denis
+ * @author Mateo_Denis
  *
  */
 public class Graph {
